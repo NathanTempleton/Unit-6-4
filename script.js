@@ -4,7 +4,7 @@ let b2 = 0
 let height = 0
 let area = 0
 
-// I'm making it so it's looking for something with the id of button to be pushed which will cauese the function math to activate. 
+// I'm making it so it's looking for something with the id of button to be pushed which will cauese the function math to activate.
 document.getElementById('button').addEventListener('click', math)
 
 // This funtion will preform the math.
